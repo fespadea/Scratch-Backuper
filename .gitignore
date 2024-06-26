@@ -1,5 +1,6 @@
-.ipynb_checkpoints
-node_modules
-testing
-previousRequests
-fespadea
+.ipynb_checkpoints/
+node_modules/
+testing/
+previousRequests/
+fespadea/
+scratchAuthenticationToken.*
