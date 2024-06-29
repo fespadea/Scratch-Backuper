@@ -12,7 +12,7 @@ const downloadProjects = async function() {
   
   const authData = require("./scratchAuthenticationToken.json");
   const projectsToDownload = require("./" + authData["username"] +
-    " projects (including descended).json");
+    "_projects.json");
   const numProjects = Object.keys(projectsToDownload).length
   let projectCounter = 0;
 
