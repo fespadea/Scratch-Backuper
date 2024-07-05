@@ -3,11 +3,10 @@ node_modules/
 testing/
 previousRequests/
 fespadea/
-scratchAuthenticationToken.*
+auth*.json
 *_projects.json
 *_urls.txt
 swifty2/
-testing.ipynb
 projectJsons/
 projectsDownloadedFromJsons/
 swifty2ProjectJsons/
